@@ -16,4 +16,4 @@ patchesJson6902:
     name: argocd-server
     version: v1
 
-namespace: pesho
+namespace: misho
